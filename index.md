@@ -1,5 +1,5 @@
 
-# Project 1: Airline Passenger Satisfaction
+# [Project 1: Airline Passenger Satisfaction](https://github.com/saratuncten/airline_passenger_satisfaction)
 Evaluated airline passenger satisfaction survey data to create unsupervised and supervised models to understand and predict customer satisfaction for the airline.
 
 * Models Created: Logisitic Regression (all variables), Stepwise Logisitc Regression, Decision Tree, Random Forest, and PAM Clustering
