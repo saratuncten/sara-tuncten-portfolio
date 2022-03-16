@@ -9,3 +9,9 @@ Evaluated airline passenger satisfaction survey data to understand and predict c
 **Packages:** corrplot, FactorMineR, factoextra, DataExplorer, compareGroups, MASS, car, rpart, randomForest, cluster 
 
 **Data:** https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction?select=train.csv
+
+# [Python Function Practice](https://github.com/saratuncten/python_function_practice)
+Practice writing Python functions from various sources such as Codewars
+
+## Code and Resources Used
+**Language**: Python
