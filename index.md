@@ -17,6 +17,7 @@ Practice writing Python functions from various sources such as Codewars
 **Language:** Python
 
 # [Spotify Data - Exploratory Data Analysis (EDA)](https://github.com/saratuncten/spotify_music_data_eda)
+Exploratory Data Analysis with data of about 600 songs on Spotify's top 100 from 2010 - 2019.
 
 ## Code and Resources Used
 **Language:** Python
